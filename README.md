@@ -16,6 +16,12 @@
          <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
          <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
+
+<div style="display: inline_block"> <br>
+         <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+         <img align="center" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg">
+         <img align="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg">
+</div>
 <br>
 Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIPAR - Universidade Paranaense (Polo Francisco Beltrão - PR). <br> <br>
 Analista de Suporte na Null Bug | Software House <br>
